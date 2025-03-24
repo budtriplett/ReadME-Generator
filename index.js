@@ -70,7 +70,7 @@ function init() {
         {
             type: 'list',
             message: questions[6],
-            choices: ['ISC', 'GNU GPLv3', 'Apache 2.0', 'MIT', 'None'],
+            choices: ['MIT', 'GNU GPLv3', 'Apache 2.0', 'ISC', 'None'],
             name: 'license'
         },
         {
